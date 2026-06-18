@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+SCRATCHPAD.md
+_test_scratch.md
+sample_app/src/db/*.db
+sample_app/src/db/*.db-wal
+sample_app/src/db/*.db-shm
+sample_app/node_modules/
