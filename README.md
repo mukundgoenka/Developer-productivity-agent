@@ -1,4 +1,5 @@
-Project made for assessment for BusinessLabs.org My id is 2026-2415
+Project made for assessment for BusinessLabs.org
+My id is 2026-2415
 # Developer Productivity Agent
 
 An exploration agent (built on the **Claude Agent SDK**, Python) that helps an
